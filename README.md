@@ -1,0 +1,1 @@
+# Fine-Tuning-TrOCR-to-Recognize-persianText-on-Shotor-dataset
